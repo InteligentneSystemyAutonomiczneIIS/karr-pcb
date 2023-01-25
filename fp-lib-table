@@ -1,5 +1,5 @@
 (fp_lib_table
   (lib (name "KiCad")(type "KiCad")(uri "${KIPRJMOD}/libraries/TEENSY_4.1/KiCad")(options "")(descr ""))
   (lib (name "Tact Switch 3x6 mm  5 mm THT")(type "KiCad")(uri "${KIPRJMOD}/libraries/CustomLibraries/Tact Switch 3x6 mm  5 mm THT.pretty")(options "")(descr ""))
-  (lib (name "D24V90F5")(type "KiCad")(uri "${KIPRJMOD}/D24V90F5.pretty")(options "")(descr ""))
+  (lib (name "D24V90F5")(type "KiCad")(uri "${KIPRJMOD}/libraries/CustomLibraries/D24V90F5/D24V90F5.pretty")(options "")(descr ""))
 )

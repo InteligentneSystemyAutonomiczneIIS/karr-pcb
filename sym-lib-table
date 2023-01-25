@@ -1,4 +1,4 @@
 (sym_lib_table
   (lib (name "TEENSY_4.1")(type "Legacy")(uri "${KIPRJMOD}/libraries/TEENSY_4.1/KiCad/TEENSY_4.1.lib")(options "")(descr ""))
-  (lib (name "D24V90F5")(type "KiCad")(uri "${KIPRJMOD}/D24V90F5.kicad_sym")(options "")(descr ""))
+  (lib (name "D24V90F5")(type "KiCad")(uri "${KIPRJMOD}/libraries/CustomLibraries/D24V90F5/D24V90F5.kicad_sym")(options "")(descr ""))
 )
