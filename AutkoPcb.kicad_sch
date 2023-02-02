@@ -3097,10 +3097,10 @@
       (reference "J801") (unit 1) (value "Conn_01x04_Male") (footprint "Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical")
     )
     (path "/fc67a3ff-0452-4104-a417-c96f5de09785/a011a9d4-fd11-40db-8863-a34ee4db18c7"
-      (reference "J901") (unit 1) (value "Barrel_Jack_MountingPin") (footprint "Connector_BarrelJack:BarrelJack_Wuerth_6941xx301002")
+      (reference "J901") (unit 1) (value "Barrel_Jack_MountingPin") (footprint "Connector_BarrelJack:BarrelJack_Horizontal")
     )
     (path "/fc67a3ff-0452-4104-a417-c96f5de09785/64a70b4f-6983-48c8-94ac-9f5aa6f531bd"
-      (reference "J902") (unit 1) (value "Barrel_Jack_MountingPin") (footprint "Connector_BarrelJack:BarrelJack_Wuerth_6941xx301002")
+      (reference "J902") (unit 1) (value "Barrel_Jack_MountingPin") (footprint "Connector_BarrelJack:BarrelJack_Horizontal")
     )
     (path "/95d09731-6b5e-489f-a967-d036e836aa83/1935bcae-29b1-4831-ba24-b860b7de256d/83a7be22-ae89-4c14-bbac-f9fd18e5263c"
       (reference "R1001") (unit 1) (value "R") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal")
