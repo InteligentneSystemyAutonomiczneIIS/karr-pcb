@@ -4,6 +4,12 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Ultrasonic sensor connector")
+    (date "2023-02-20")
+    (company "Szymon Przybył")
+  )
+
   (lib_symbols
     (symbol "Connector:Conn_01x04_Male" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "J" (id 0) (at 0 5.08 0)
@@ -417,14 +423,10 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x04_Male") (at 137.16 97.79 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board yes)
     (uuid 734e9a6b-6629-473a-b001-d43c724e935c)
-    (property "Reference" "J601" (id 0) (at 135.89 97.7899 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Value" "Conn_01x04_Male" (id 1) (at 135.89 100.3299 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
+    (property "Reference" "J601" (id 0) (at 130.175 97.79 0))
+    (property "Value" "JST 2.56mm" (id 1) (at 130.175 100.33 0))
     (property "Footprint" "Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical" (id 2) (at 137.16 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
